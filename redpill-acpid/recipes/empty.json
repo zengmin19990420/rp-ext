@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "empty.sh",
-      "url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/src/empty.sh",
+      "url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-acpid/src/empty.sh",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "packed": false
     }

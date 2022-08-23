@@ -1,6 +1,6 @@
 {
   "id": "pocopico.early-telnet",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/early-telnet/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/rpext-index.json",
   "info": {
     "name": "Early telnet start",
     "description": "Simple extension which starts telnet early at boot",
@@ -8,12 +8,12 @@
     "help_url": "https://github.com/pocopico/rp-ext/early-telnet"
   },
   "releases": {
-    "ds3615xs_25556": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds3615xs_41222": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds3615xs_42951": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds3615xs_42218": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds918p_25556": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds918p_41890": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json",
-    "ds918p_42218": "https://github.com/pocopico/rp-ext/raw/main/early-telnet/recipes/universal.json"
+    "ds3615xs_25556": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds3615xs_42951": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds3615xs_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds918p_25556": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds918p_41890": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json",
+    "ds918p_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/early-telnet/recipes/universal.json"
   }
 }

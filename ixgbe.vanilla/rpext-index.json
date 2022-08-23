@@ -1,6 +1,6 @@
 {
   "id": "pocopico.ixgbe.vanilla",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe.vanilla/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/ixgbe.vanilla/rpext-index.json",
   "info": {
     "name": "ixgbe",
     "description": "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support",
@@ -9,6 +9,6 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3615xs_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe.vanilla/releases/ds3615xs_42218.json"
+    "ds3615xs_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/ixgbe.vanilla/releases/ds3615xs_42218.json"
   }
 }

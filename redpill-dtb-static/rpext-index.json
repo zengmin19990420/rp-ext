@@ -1,5 +1,5 @@
 {
-  "id": "pocopico.dtb-static",
+  "id": "redpill-dtb-static",
   "url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb-static/rpext-index.json",
   "info": {
     "name": "Device tree binary",

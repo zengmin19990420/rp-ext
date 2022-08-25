@@ -1,0 +1,26 @@
+{
+  "id": "pocopico.dtb",
+  "url": "https://github.com/pocopico/redpill-load/raw/master/redpill-dtb/rpext-index.json",
+  "info": {
+    "name": "Device tree binary",
+    "description": "Create your own device tree binary",
+    "author_url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb",
+    "packer_url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb",
+    "help_url": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb"
+  },
+  "releases": {
+    "ds920p_42951": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds920p_42550": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds920p_42621": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds1621p_42951": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds1621p_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds1621p_42621": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds1621p_42661": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds2422p_42951": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds2422p_42218": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds2422p_42621": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json",
+    "ds2422p_42661": "https://raw.githubusercontent.com/wjz304/rp-ext/master/redpill-dtb/recipes/universal.json"
+  }
+}
